@@ -1,0 +1,16 @@
+h1,h3{
+	margin: 0 0 15px;
+	padding: 10px 0;
+	color: #ffffff;
+	background-color: #626262;
+}
+.r-custom{
+	--bs-gutter-x: 0;
+}
+.clb{
+	margin-bottom: 15px;
+}
+.link-href{
+	list-style: none;
+	text-decoration: none;
+}
